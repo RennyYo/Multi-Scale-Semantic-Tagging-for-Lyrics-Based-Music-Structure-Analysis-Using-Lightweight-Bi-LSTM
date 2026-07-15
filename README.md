@@ -1,0 +1,1 @@
+# Multi-Scale-Semantic-Tagging-for-Lyrics-Based-Music-Structure-Analysis-Using-Lightweight-Bi-LSTM
