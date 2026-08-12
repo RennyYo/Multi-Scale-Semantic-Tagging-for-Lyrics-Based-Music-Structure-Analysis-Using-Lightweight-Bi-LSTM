@@ -51,7 +51,9 @@ to achieve competitive performance while significantly reducing computational co
 
 # System Architecture
 
+<!--
 ![Fig1_Overall_system_architecture](https://hackmd.io/_uploads/HkSFXLFIfx.jpg)
+ -->
 ![Fig1_Overall_system_architecture](Figures/Fig1_Overall_system_architecture.png)
 
 ---
@@ -210,11 +212,11 @@ Generate experimental results
 | SongFormer | 0.5254 | 0.5448 | 0.6283 |
 
 ## Experimental Visualizations
-
+<!--
 ![Fig2_Performance_Comparison_with_Lyrics-Only_and_Audio-Only_Baselines_F1-Score](https://hackmd.io/_uploads/HJw5X8FUzx.png)
 ![Fig3_Resource_Comparison_with_Baselines](https://hackmd.io/_uploads/rJw5m8YLzl.png)
 ![Fig4_Confusion_Matrix](https://hackmd.io/_uploads/Hy_978tIMx.png)
-
+ -->
 ![Fig2_Performance_Comparison_with_Lyrics-Only_and_Audio-Only_Baselines_F1-Score](Figures/Fig2_Performance_Comparison_with_Lyrics-Only_and_Audio-Only_Baselines_F1-Score.png)
 ![Fig3_Resource_Comparison_with_Baselines](Figures/Fig3_Resource_Comparison_with_Baselines.png)
 ![Fig4_Confusion_Matrix](Figures/Fig4_Confusion_Matrix.png)
