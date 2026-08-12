@@ -3,6 +3,11 @@ title: Lightweight Lyrics-Based Music Structure Analysis
 
 ---
 
+---
+title: Lightweight Lyrics-Based Music Structure Analysis
+
+---
+
 # Multi-Scale Semantic Tagging for Lyrics-Based Music Structure Analysis Using Lightweight Bidirectional Long Short-Term Memory
 
 Official implementation of the paper:
@@ -45,11 +50,9 @@ to achieve competitive performance while significantly reducing computational co
 ---
 
 # System Architecture
-<!-- 補圖 -->
-<!-- -<p align="center"> -->
-<!-- -<img src="figures/framework.png" width="900"> -->
-<!-- -</p> -->
-![Fig1_Overall system architecture'](https://hackmd.io/_uploads/By3K4KEVMg.jpg)
+
+![Fig1_Overall_system_architecture](https://hackmd.io/_uploads/HkSFXLFIfx.jpg)
+![Fig1_Overall_system_architecture](Figures/Fig1_Overall_system_architecture.png)
 
 ---
 
@@ -208,9 +211,13 @@ Generate experimental results
 
 ## Experimental Visualizations
 
-![Fig2_Performance_Comparison_with_Lyrics-Only_and_Audio-Only_Baselines_F1-Score](https://hackmd.io/_uploads/BkE4fUtIGe.png)
-![Fig3_Resource_Comparison_with_Baselines](https://hackmd.io/_uploads/H1ONf8Y8fg.png)
-![Fig4_Confusion_Matrix](https://hackmd.io/_uploads/H1iNMUFIGg.png)
+![Fig2_Performance_Comparison_with_Lyrics-Only_and_Audio-Only_Baselines_F1-Score](https://hackmd.io/_uploads/HJw5X8FUzx.png)
+![Fig3_Resource_Comparison_with_Baselines](https://hackmd.io/_uploads/rJw5m8YLzl.png)
+![Fig4_Confusion_Matrix](https://hackmd.io/_uploads/Hy_978tIMx.png)
+
+![Fig2_Performance_Comparison_with_Lyrics-Only_and_Audio-Only_Baselines_F1-Score](Figures/Fig2_Performance_Comparison_with_Lyrics-Only_and_Audio-Only_Baselines_F1-Score.png)
+![Fig3_Resource_Comparison_with_Baselines](Figures/Fig3_Resource_Comparison_with_Baselines.png)
+![Fig4_Confusion_Matrix](Figures/Fig4_Confusion_Matrix.png)
 
 ---
 
