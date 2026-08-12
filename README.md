@@ -1,3 +1,8 @@
+---
+title: Lightweight Lyrics-Based Music Structure Analysis
+
+---
+
 # Multi-Scale Semantic Tagging for Lyrics-Based Music Structure Analysis Using Lightweight Bidirectional Long Short-Term Memory
 
 Official implementation of the paper:
